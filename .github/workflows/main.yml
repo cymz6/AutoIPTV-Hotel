@@ -1,4 +1,4 @@
-name: iptv-sc
+name: update-lives-list
 
 on:
   schedule:
