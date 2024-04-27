@@ -8,7 +8,6 @@ CCTV10,http://36.136.77.71:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&au
 CCTV11,http://36.136.77.71:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://36.136.77.71:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://36.136.77.71:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://36.136.77.71:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://36.136.77.71:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
 上海卫视,http://36.136.77.71:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
