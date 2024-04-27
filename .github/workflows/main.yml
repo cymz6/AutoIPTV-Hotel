@@ -23,8 +23,8 @@ jobs:
       - name: Install dependencies
         run: pip install selenium requests futures eventlet
 
-      - name: Run iptv-sc
-        run: python ${{ github.workspace }}/iptv-sc.py
+      - name: Run iptv
+        run: python ${{ github.workspace }}/iptv.py
 
         
       - name: 提交数据
